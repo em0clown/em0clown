@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет, я - Колесов Георгий (em0clown)👋
 
-<!--
-**em0clown/em0clown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Developer | Embedded developer | Systems Enthusiast
 
-Here are some ideas to get you started:
+Я создаю удобные интерфейсы и исследую возможности современной веб-разработки. Совмещаю эстетику дизайна с надежностью системного администрирования.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Стек технологий
+
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Design:** Figma.
+- **Backend & System:** Go (Golang), C/C++, Nginx, администрирование Ubuntu.
+- **Инструменты:** Git, Docker, LaTeX.
+- **Микроконтроллеры:** Arduino, STM32, ESP32.
+
+---
+
+### 🚀 Мои проекты
+
+*   **[Web Resume](https://github.com/em0clown/Lab14_resume)** — Интерактивное резюме с эффектами Material Wave и экспортом в PDF на чистом JS.
+*   **[Plant Shop UI](https://www.figma.com/design/0kkeuBTizRpAQTrLrKKXQ3/laba10?node-id=0-1&t=QEEB4OqpGQHvlGQa-1)** — Прототип интернет-магазина растений с продуманным UX и сетками.
+*   **[C-Labs](https://github.com/em0clown/Lab14_resume)** — Различные проекты на С.
+
+---
+
+### 📊 Статистика и навыки
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=em0clown&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=em0clown&layout=compact&theme=radical)
+
+---
+
+### 📫 Как со мной связаться
+
+- **Telegram:** [@em0clown]
+- **Email:** [george.kolesov12@yandex.ru]
+
+---
+
+### ⚡ Блиц-факты
+- 🎓 Студент СибГУТИ (ИКС-532).
