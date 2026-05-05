@@ -20,7 +20,7 @@
 
 *   **[Web Resume](https://github.com/em0clown/Lab14_resume)** — Интерактивное резюме с эффектами Material Wave и экспортом в PDF на чистом JS.
 *   **[Plant Shop UI](https://www.figma.com/design/0kkeuBTizRpAQTrLrKKXQ3/laba10?node-id=0-1&t=QEEB4OqpGQHvlGQa-1)** — Прототип интернет-магазина растений с продуманным UX и сетками.
-*   **[C-Labs]([https://github.com/em0clown/Lab14_resume](https://github.com/em0clown/C-Programming))** — Различные проекты на С.
+*   **[C-Labs](https://github.com/em0clown/C-Programming)** — Различные проекты на С.
 
 ---
 
