@@ -10,7 +10,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript, React.
 - **Design:** Figma.
-- **Backend & System:** Go (Golang), C/C++, Nginx, администрирование Ubuntu.
+- **Backend & System:** Go (Golang), C/C++, Python, Nginx, администрирование Ubuntu.
 - **Инструменты:** Git, Docker, LaTeX.
 - **Микроконтроллеры:** Arduino, STM32, ESP32.
 
