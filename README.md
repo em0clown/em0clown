@@ -23,7 +23,7 @@
 
 ### 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=em0clown&show_icons=true&theme=tokyonight)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=em0clown&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=em0clown&show_icons=true&theme=tokyonight&count_private=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=em0clown&layout=compact&theme=tokyonight)
 
 ---
