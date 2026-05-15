@@ -1,33 +1,71 @@
-# Привет! Я Георгий 👋
+<h1 align="center"> em0clown / backend & systems developer </h1>
 
-Разработчик из Новосибирска, сфокусированный на системном программировании, бэкенде и создании удобных интерфейсов. Учусь в СибГУТИ.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+</div>
 
-### 🛠 Стек технологий
+###
 
-- **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Backend:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-- **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
 
----
+###
 
-### 🚀 Сейчас я работаю над
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
 
-*   **Video Hosting Platform** — Бэкенд на Django + React фронтенд, всё это крутится в Docker-контейнерах под Nginx.
-*   **Systems Programming** — Изучаю примитивы синхронизации в Go и оптимизацию алгоритмов на C.
-*   **UI/UX Design** — Проектирую интерфейсы в Figma, стараясь сделать их не только функциональными, но и эстетичными.
+###
 
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=em0clown&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
-### 📊 Статистика GitHub
+###
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=em0clown&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=em0clown&show_icons=true&theme=tokyonight&count_private=true))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=em0clown&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=em0clown&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
----
+###
 
-### 📫 Как меня найти
-
-- **TG:** @Em0c1own 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/em0clown/em0clown/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/em0clown/em0clown/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/em0clown/em0clown/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
