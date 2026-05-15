@@ -1,4 +1,4 @@
-<h1 align="center"> em0clown / backend & systems developer </h1>
+<h1 align="center"> em0clown / full stack & systems developer </h1>
 
 ###
 
@@ -61,11 +61,3 @@
 </p>
 
 ###
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/em0clown/em0clown/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/em0clown/em0clown/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/em0clown/em0clown/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
